@@ -1,0 +1,80 @@
+#pic{
+    width: 15%;
+    height: 10%;
+    float: right;
+}
+
+
+h2{
+text-align: center;
+border-top: 3px solid rgba(0, 26, 255, 0.781);
+border-width: 20ex auto 20ex auto;
+padding-top: 1em;
+}
+
+
+body{
+    max-width: 42%;
+    margin: 50px auto 60px;
+    font: 15px Helvetica, Sans-Serif;
+    background: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8a6fa73f-8281-4986-9d1f-b7151941778b/d4djmy3-b3562385-3a78-4a1c-88f0-1436b90efaae.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sIm9iaiI6W1t7InBhdGgiOiIvZi84YTZmYTczZi04MjgxLTQ5ODYtOWQxZi1iNzE1MTk0MTc3OGIvZDRkam15My1iMzU2MjM4NS0zYTc4LTRhMWMtODhmMC0xNDM2YjkwZWZhYWUuanBnIn1dXX0.Q68LX5Jx4jtWpPSUZaUtmxNmRk8MO5TBJ6VOhjJYOfQ);
+}
+
+
+#container{
+text-align: center;
+}
+
+
+#Pro{
+font-size: 20px;
+text-align: center;
+padding: 1em;
+margin-top: 2em;
+border-top: 3px solid rgba(0, 26, 255, 0.781);
+}
+
+
+#Thelist{
+text-align: left;
+display: flex;
+list-style: inside;
+justify-content: space-evenly;
+padding: 3px;
+margin-right: -250px;
+}
+
+
+#Work{
+    font-size: 20px;
+    text-align: center;
+    padding: 1em;
+    border-top: 3px solid rgba(0, 26, 255, 0.781);
+}
+
+
+#Work li, #IBM li, #Admin li, #Marketing li{
+    text-align: left;
+} 
+
+
+#Workexp li{
+padding-bottom: .2em;
+}
+
+
+#Degree{
+    font-size: 20px;
+    text-align: center;
+    padding: 1em;
+    margin-top: 2em;
+    border-top: 3px solid rgba(0, 26, 255, 0.781);
+}
+
+
+#BACH{
+    text-align: center;
+}
+
+
+
